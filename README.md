@@ -1,2 +1,2 @@
-# AWS_Developer_Associate_Hands-on
+# AWS_CLOUD formation
 AWS services hands-on code
